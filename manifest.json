@@ -16,5 +16,9 @@
 	      "matches": ["https://www.netflix.com/*"],
 	      "js": ["jquery.min.js", "content.js"]
 	    }
-  	]
+  	],
+  	"type": {
+  		"tooltip": 1,
+  		"badge": 0
+  	}
  }

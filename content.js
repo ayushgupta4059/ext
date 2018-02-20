@@ -15,7 +15,7 @@ $(document).on("click", function () {
 
 			// show rating on top of movie tile on netflix
 			} else {
-				var div = '<div class="imdb-rating" style="width: 40px;height: 14px;position: absolute;z-index: 1000;'
+				var div = '<div class="imdb-rating" style="width: 40px;height: 17px;position: absolute;z-index: 1000;'
 					+ 'top: -25px;left: 103px;border-radius: 20px;text-align: center;background: #000;'
 					+ 'background-color: #235bc3;">' + result.imdbRating
 					+ '<div style="border-left: 4px solid transparent;'
